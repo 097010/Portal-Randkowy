@@ -117,3 +117,4 @@ C:\Users\Dawid\Projekty\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp3.
 C:\Users\Dawid\Projekty\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp3.1\staticwebassets\PortalRandkowy.API.StaticWebAssets.xml
 C:\Users\Dawid\Projekty\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp3.1\PortalRandkowy.API.dll
 C:\Users\Dawid\Projekty\PortalRandkowy\PortalRandkowy.API\obj\Debug\netcoreapp3.1\PortalRandkowy.API.pdb
+C:\Users\Dawid\Projekty\PortalRandkowy\PortalRandkowy.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
